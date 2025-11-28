@@ -1,7 +1,7 @@
 # PLANTAS-VENENOSAS
-# 🌿 CLASIFICADOR DE PLANTAS VENENOSAS (TEACHABLE MACHINE)
+# CLASIFICADOR DE PLANTAS VENENOSAS (TEACHABLE MACHINE)
 
-## 💡 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto es una aplicación web sencilla que utiliza un modelo de **Machine Learning (Aprendizaje Automático)**, entrenado con **Google Teachable Machine**, para clasificar imágenes en tiempo real.
 
@@ -12,13 +12,13 @@ El modelo está diseñado para identificar las siguientes clases de plantas:
 * Hiedra venenosa
 * [Y las otras 7 clases que entrenaste, ej: Belladona, Ricino, etc.]
 
-## ⚙️ Tecnologías y Librerías
+## Tecnologías y Librerías
 
 * **Modelo de Clasificación:** Teachable Machine (Clasificación de Imágenes).
 * **Framework ML:** TensorFlow.js (para ejecutar el modelo en el navegador).
 * **Lenguajes:** HTML y JavaScript.
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 Para ejecutar esta aplicación, es **fundamental** usar un servidor local para que el navegador cargue correctamente el modelo de Machine Learning sin restricciones de seguridad.
 
@@ -33,7 +33,7 @@ Para ejecutar esta aplicación, es **fundamental** usar un servidor local para q
 
 ---
 
-##  troubleshooting (Solución de Problemas)
+## (Solución de Problemas)
 
 Si la aplicación no funciona o el modelo no carga:
 
